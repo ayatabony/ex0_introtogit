@@ -1,5 +1,5 @@
 Favorite color: Pink
-Favorite food: Pasta
-Favorite musician/band: Eminem
-Favorite movie: Harry Potter
-Requested grade in the course: 100
+Favorite food: Falafel
+Favorite musician/band: Taylor Swift
+Favorite movie: the great gatsby
+Requested grade in the course: 99
